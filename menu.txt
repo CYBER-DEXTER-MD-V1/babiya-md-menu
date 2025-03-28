@@ -1,0 +1,27 @@
+
+---
+
+**🤖 Bot Name**: **BABIYA MD V1**  
+⚙️ **Type**: **NodeJs**  
+💻 **Owner**: **CYBER-DEXTER**  
+🔑 **Prefix**: **[${prefix}]**  
+🌀 **Version**: **v1.0.9**  
+╰━━━━━━━━━━━━━━━━━━━━━━━  
+
+---
+
+✨ **Hello, _${pushName}_!**  
+Welcome to **BABIYA MD V1** – Let’s make your experience amazing! 🚀  
+
+---
+
+🎵 **Download Media** 🎥  
+Get your favorite media instantly!  
+
+╭━━━━━━━━━━━━━━━━━╮  
+🎶 **${prefix}song** – *Download a YouTube song*  
+📹 **${prefix}video** – *Download YouTube video*  
+╰━━━━━━━━━━━━━━━━━╯  
+
+---
+

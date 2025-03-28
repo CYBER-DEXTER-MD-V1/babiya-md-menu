@@ -3,7 +3,7 @@
 
 **🤖 Bot Name**: **BABIYA MD V1**  
 ⚙️ **Type**: **NodeJs**  
-💻 **Owner**: **CYBER-DEXTER**  
+💻 **Owner**: **BABIYA-MD**  
 🔑 **Prefix**: **[${prefix}]**  
 🌀 **Version**: **v1.0.9**  
 ╰━━━━━━━━━━━━━━━━━━━━━━━  
@@ -15,12 +15,16 @@ Welcome to **BABIYA MD V1** – Let’s make your experience amazing! 🚀
 
 ---
 
-🎵 **Download Media** 🎥  
-Get your favorite media instantly!  
+🎵 **Full Menu** 🎥  
+Get your favorite Menu instantly!  
 
 ╭━━━━━━━━━━━━━━━━━╮  
 🎶 **${prefix}song** – *Download a YouTube song*  
-📹 **${prefix}video** – *Download YouTube video*  
+📹 **${prefix}video** – *Download YouTube video* 
+⭐ **${prefix}Mode** – *Change bot public or private* 
+🔰  **${prefix}Owner** – *Get Owner Number* 
+🔶  **${prefix}Ping** – *Get Ping Massage*
+💥  **${prefix}Alive** – *Alive Massage Get* 
 ╰━━━━━━━━━━━━━━━━━╯  
 
 ---
